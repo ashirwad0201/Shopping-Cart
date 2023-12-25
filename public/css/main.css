@@ -9,6 +9,15 @@ body {
   margin: 0;
   font-family: 'Open Sans', sans-serif;
 }
+
+.image {
+  height : 20rem;
+}
+
+.image img {
+  height : 100%;
+}
+
 .centered{
   text-align: center;
 }
